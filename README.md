@@ -1,0 +1,1 @@
+Some macros to calculate the Disc of the triangle (G) function, aka IA
